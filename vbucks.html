@@ -1,11 +1,11 @@
 <script>
-var usd = 0.99;//1.00 usd = 100 vbucks
+var usd = 0.99;//0.99 usd = 100 vbucks
 function usd_inc(){
     usd += 0.01;
     updateText();
 }
 function usd_dec(){
-    if(usd <= 1.00){
+    if(usd <= 0.99){
         alert("USD cannot be below 1.00, sorry!");
     }
     else{
