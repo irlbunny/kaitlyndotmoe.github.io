@@ -10,4 +10,5 @@
 
 # Q&A
 Q: When I restart my phone and go into Fortnite again, I get the "Input Error". Why?
+
 A: Reinstall Xposed Installer (for Magisk), enable FakeFortnite again and restart. Open Fortnite, go into a match and you should get a VPN error. Uninstall Xposed Installer again, open Fortnite again and if you did everything correctly you shouldn't get kicked off the Battle Bus. You will have to constantly do this every time you reboot, I'm looking into a way to make it so that Fortnite can't detect Xposed Installer.
