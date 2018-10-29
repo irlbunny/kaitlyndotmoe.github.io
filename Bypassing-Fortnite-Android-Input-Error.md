@@ -1,2 +1,2 @@
-## Bypassing Fortnite Android "Input Error" [Guide]
+## [Guide] Bypassing Fortnite Android "Input Error"
 SoonTM
