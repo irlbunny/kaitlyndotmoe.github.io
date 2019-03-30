@@ -1,0 +1,2 @@
+# What is this?
+This directory contains my old repositories and such, they've likely been deleted because they are of no value to anyone anymore but I'm providing zip dumps of these repositories in case someone out there still cares.
